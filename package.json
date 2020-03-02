@@ -1,0 +1,8 @@
+{
+  "name": "tvwatchschedule",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.10"
+  },
+  "author": "Jared",
+  "license": "MIT"
+}
